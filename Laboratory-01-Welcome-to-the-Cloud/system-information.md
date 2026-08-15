@@ -7,7 +7,7 @@ Ubuntu 24.04
 6.8.0-136-generic
 
 ## CPU Information
-Model name: Intel Xeon E312xx 
+Model name: Intel Xeon E312xx (Sandy Bridge, IBRS update)
 
 ## Total Memory 
 1.9Gi
